@@ -69,7 +69,7 @@ il {
 h2 {
     font-size: 22pt;
     background-color: #D28265;
-    
+    padding: 7pt;
 }
 
 .intro {
@@ -104,7 +104,34 @@ h2 {
 .ticket {
     background: #D28265;
     color: white;
+    
+    padding-left: 5pt;
 
 
+}
+.ticket:hover {
+    background: white;
+    color: #D28265;
+}
+.betaal {
+    background: #D28265;
+    color: white;
+    padding: 0,5px;
+    padding-left: 5pt;
+}
 
+.betaal:hover {
+    background: white;
+    color: #D28265;
+}
+
+.meer {
+    color: #D28265;
+    background: #141317;
+    padding: 0,5px;
+    padding-left: 5pt;
+}
+.meer:hover {
+    color: white;
+    background: #D28265;
 }
