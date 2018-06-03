@@ -68,6 +68,7 @@ il {
 
 h2 {
     font-size: 22pt;
+    background-color: #D28265;
     
 }
 
@@ -79,6 +80,33 @@ h2 {
     font-family: "SourceSansPro";
 }
 
-h2:hover {
-    background-color: #D28265;
+
+.facebook:hover {
+    color: #D28265;
+    
+}
+.facebook {
+    font-size: 8pt;
+}
+.instagram:hover {
+    color: #D28265;
+}
+.instagram {
+    font-size: 8pt;
+}
+.twitter:hover {
+    color: #D28265;
+}
+.twitter {
+    font-size: 8pt;
+}
+
+.ticket {
+    background: #D28265;
+    color: white;
+     3cm;
+
+
+
+
 }
